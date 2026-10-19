@@ -1,0 +1,7 @@
+{
+  "name": "Codenation Academy",
+  "description": "Hududingizda zamonaviy IT ta'limini yo'lga qo'ying. Codenation Academy akkreditatsiyadan o'tgan hamkorlik va ta'lim ekotizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
